@@ -1,7 +1,7 @@
 # API-challenge
 
 <h3>Overview:</h3>
-Using randomly selected cities from across the globe (citipy), API calls were made to OpenWeatherMaps in order to collect weather data. These were then used to generate plots to see if these weather variables correlated with changes in latitude or longitude, some including linear regressions and r-squared values. A heatmap was then created to display humidity, as well as filtering for ideal hotels listed via the Google Places API. 
+Using randomly selected cities from across the globe (citipy), API calls were made to OpenWeatherMaps in order to collect weather data. These were then used to generate plots to see if these weather variables correlated with changes in latitude or longitude, some including linear regressions and r-squared values. A heatmap was then created to display humidity, as well as filtering for ideal hotels listed via the Google Places API. </br>
 
 <b>output_data:</b></br>
 Contains image files of Weather Variables vs. City Latitude scatterplots. Variables include: temperature, humidity, cloudiness & windspeed. 
