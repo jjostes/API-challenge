@@ -5,9 +5,9 @@ Using randomly selected cities from across the globe (citipy), API calls were ma
 </br>
 <b>output_data:</b></br>
 Contains image files of Weather Variables vs. City Latitude scatterplots. Variables include: temperature, humidity, cloudiness & windspeed. 
-
+</br>
 <b>WeatherPy:</b></br>
 Within the output cells of WeatherPy.ipynb are the above graphs, as well as scatterplots of Max Temp, Humidity, & Windspeed vs. City Latitude, respectively. The latter set of graphs were also split across the Northern/Southern Hemispheres, in all totalling an additional 6 maps to the original 4. 
-
+</br>
 <b>VacationPy:</b></br>
 Contains exported images of heatmaps produced within the notebook. 
