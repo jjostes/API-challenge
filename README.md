@@ -22,10 +22,12 @@ As well as linear regressions of the following:
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 Example:
+
 ![linregress]
 
 ### Part II - Vacation
 Screenshot of the final result, as deployed in Jupyter Notebook
+
 ![heatmap]
 
 
