@@ -50,7 +50,7 @@ Screenshot of the final result, as deployed in Jupyter Notebook
 
 John Jostes - [https://www.linkedin.com/in/john-jostes-386b841a0/](https://www.linkedin.com/in/john-jostes-386b841a0/)
 
-Project Link: [https://github.com/jjostes/stock-market-analysis](https://github.com/jjostes/stock-market-analysis)
+Project Link: [https://github.com/jjostes/OpenWeatherMaps-GooglePlaces-API](https://github.com/jjostes/OpenWeatherMaps-GooglePlaces-API)
 
 <!-- MARKDOWN IMAGE LINKS -->
 [linregress]: https://github.com/jjostes/API-challenge/blob/master/output_data/lin_regress.png
